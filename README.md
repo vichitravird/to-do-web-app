@@ -1,5 +1,5 @@
 ![image](https://github.com/vichitravird/to-do-web-app/assets/93407819/5268b4fd-e05a-460a-9822-b25c1c28c6e6)
-![image](https://github.com/vichitravird/to-do-web-app/assets/93407819/83ff56db-726f-484b-bd65-e3ea142a3f47)
+
 # to-do-web-app
 "Stay organized and boost your productivity with our user-friendly To-Do web application! Whether you're managing personal tasks, or work projects our platform offers a seamless experience for creating, organizing, and tracking your to-do lists. With a clean and intuitive interface, managing your tasks has never been easier."
 
